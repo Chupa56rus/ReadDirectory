@@ -1,2 +1,2 @@
 # ReadDirectory
-The application creates a list of file names from the selected directory
+The application creates a list of file names from the selected directory (Java FX)
